@@ -1,4 +1,8 @@
-# vue_three
+# Vue & Three.js basic scene boilerplate
+
+Template vue et three.js, scene 3D basic
+
+<br><br>
 
 ## Project setup
 ```
@@ -15,5 +19,3 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
